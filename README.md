@@ -10,3 +10,10 @@ alt="movie on youtube" width=40% border="10" /></a>
 [movie "Motion" on youtube](https://www.youtube.com/watch?v=zNGVQXqtgJ4)  
 
 I know this is foolish...    
+
+## Images
+
+<a><img src="https://github.com/matzTada/TactSwitchTouchPanel/blob/master/image/pic01.jpg" 
+alt="pic01" width=20%></a>
+<a><img src="https://github.com/matzTada/TactSwitchTouchPanel/blob/master/image/pic02.jpg" 
+alt="pic02" width=20%></a>  
